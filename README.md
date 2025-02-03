@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Shinbi's%20Github🫰&fontSize=60&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-### Welcome to Shinbi's github!
-
 
 
 Tech Stacks
