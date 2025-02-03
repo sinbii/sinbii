@@ -1,9 +1,9 @@
 <div align= "center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shinbi🫰&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Shinbi's%20Github🫰&fontSize=60&animation=twinkling&fontAlign=68&fontAlignY=36)
 
   
-Contact me
+Contact
 --------------------------------
 
 <img src="https://img.shields.io/badge/INSTAGRAM-FF0069?style=flat-square&logo=instagram&logoColor=white"/>   <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>   <img src="https://img.shields.io/badge/NOTION-0F0F11?style=flat-square&logo=notion&logoColor=white"/>
@@ -21,11 +21,6 @@ Tech Stacks
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinbii)](https://github.com/sinbii/github-readme-stats)
 
 
-
-Tools
-----------------------------------------------
-
-<img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>    <img src="https://img.shields.io/badge/visualStudioCode-4479A1?style=flat-square&logo=mysql&logoColor=white"/>      <img src="https://img.shields.io/badge/Spyder-8C0000?style=flat-square&logo=spyderide&logoColor=white"/>       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>   <img src="https://img.shields.io/badge/IntelliJ-0000001?style=flat-square&logo=intellij&logoColor=white"/>
 
 
 
